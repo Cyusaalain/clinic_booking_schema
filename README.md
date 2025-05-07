@@ -31,14 +31,7 @@ SOURCE path/to/clinic_booking_schema.sql;
 Replace `path/to/clinic_booking_schema.sql` with the actual path to the file you downloaded.
 
 ##  ERD Screenshot
-You can generate or visualize the Entity Relationship Diagram (ERD) using tools like:
-
-- [dbdiagram.io](https://dbdiagram.io/)
-- [drawSQL](https://drawsql.app/)
-- [MySQL Workbench](https://www.mysql.com/products/workbench/)
-
-Suggested structure:
-![ERD Screenshot](https://i.imgur.com/USKjY1v.png) <!-- Replace this with your own ERD image link -->
+![ERD Screenshot](https://drive.google.com/file/d/1Ml5KGSamPeD1s2mwoMlM8wC0tAVfEfwU/view?usp=sharing)
 
 ##  File Contents
 
